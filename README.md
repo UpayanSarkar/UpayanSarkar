@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)](https://upayansarkar.io)
+
 <h1 align="center">Hi 👋, I'm UpayanSarkar</h1>
 <h3 align="center">I am a current MCA student with a strong passion for software development, eager to apply my skills and knowledge to contribute effectively to a dynamic team.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
