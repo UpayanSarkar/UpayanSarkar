@@ -67,6 +67,6 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upayansarkar&show_icons=true&locale=en&layout=compact" alt="upayansarkar" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upayansarkar&show_icons=true&locale=en&layout=compact" alt="upayansarkar"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=upayansarkar&show_icons=true&locale=en" alt="upayansarkar" width="48%" />
 </div>
