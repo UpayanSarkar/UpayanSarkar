@@ -2,9 +2,6 @@
 <h3 align="center">I am a current MCA student with a strong passion for software development, eager to apply my skills and knowledge to contribute effectively to a dynamic team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upayansarkar&label=Profile%20views&color=0e75b6&style=flat" alt="upayansarkar" /> </p>
-
-- 📫 How to reach me **imupayan5@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/upayan-sarkar-47746b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upayan-sarkar-47746b245" height="30" width="40" /></a>
