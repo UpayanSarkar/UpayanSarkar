@@ -70,3 +70,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upayansarkar&show_icons=true&locale=en&layout=compact" alt="upayansarkar"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=upayansarkar&show_icons=true&locale=en" alt="upayansarkar"  />
 </div>
+<img src=""https://github.com/amajaying/amajaying/blob/main/Footer.jpg"">
