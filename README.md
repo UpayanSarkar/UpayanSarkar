@@ -19,7 +19,7 @@
 
 <!-- GitHub Stats -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UpayanSarkar&theme=tokyonight" width="48%" />
@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpayanSarkar&theme=default&hide_border=false&layout=compact" />
 </p>
+
 
 
 <img src="https://github.com/UpayanSarkar/UpayanSarkar/blob/main/Footer.jpg">
