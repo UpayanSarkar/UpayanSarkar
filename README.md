@@ -21,6 +21,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UpayanSarkar&theme=tokyonight" width="48%" />
+  <!--new -->
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UpayanSarkar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UpayanSarkar&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UpayanSarkar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </p>
 
