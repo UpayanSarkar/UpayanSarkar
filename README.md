@@ -67,11 +67,9 @@
 
 <!-- GitHub Stats -->
 
-  
-<!-- GitHub Stats (Black Theme) -->
-<div style="display: flex; justify-content: space-between;">
-  <img src="https:///github-profile-summary-cards.vercel.app/api/cards/stats?username=UpayanSarkar&theme=tokionight" width="48%" />
-  <img src="https:///github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UpayanSarkar&theme=tokionight" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UpayanSarkar&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UpayanSarkar&theme=tokyonight" width="48%" />
+</p>
 
 <img src="https://github.com/UpayanSarkar/UpayanSarkar/blob/main/Footer.jpg">
