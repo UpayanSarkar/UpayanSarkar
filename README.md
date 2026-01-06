@@ -25,17 +25,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UpayanSarkar&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UpayanSarkar&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UpayanSarkar&theme=default&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpayanSarkar&theme=default&hide_border=false&layout=compact" />
-</p>
 
 
 
