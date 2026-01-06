@@ -66,8 +66,12 @@
 </p>
 
 <!-- GitHub Stats -->
+
+  
+<!-- GitHub Stats (Black Theme) -->
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upayansarkar&show_icons=true&locale=en&layout=compact" alt="upayansarkar"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=upayansarkar&show_icons=true&locale=en" alt="upayansarkar"  />
+  <img src="https://github-readme-stats.vercel.app/api/cards/stats?username=UpayanSarkar&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/cards/most-commit-language?username=UpayanSarkar&theme=github_dark" width="48%" />
 </div>
+
 <img src="https://github.com/UpayanSarkar/UpayanSarkar/blob/main/Footer.jpg">
